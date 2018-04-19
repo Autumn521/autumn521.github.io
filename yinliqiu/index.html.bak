@@ -3,16 +3,16 @@
 <html xmlns="http://www.w3.org/1999/xhtml">
 
 <head><meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
-<title>ͼƬ��</title>
+<title>Í¼Æ¬¿â</title>
 
 <body>
 
-<ul>  <li><a href="images/1.jpg"onclick="showPic(this);return false;"title="aaaaa">Fireworks</a></li> 
-       <li><a href="images/4.jpg"onclick="showPic(this);return false;"title="bbbbb">Coffee</a></li>
+<ul>  <li><a href="images/1.jpg"onclick="showPic(this);return false;"title="1">One</a></li> 
+       <li><a href="images/4.jpg"onclick="showPic(this);return false;"title="2">Two</a></li>
 
-  <li><a href="images/2.jpg"onclick="showPic(this);return false;"title="ccccc">Rose</a></li>
+  <li><a href="images/2.jpg"onclick="showPic(this);return false;"title="3">Three</a></li>
 
-  <li><a href="images/3.jpg"onclick="showPic(this);return false;"title="ddddd">BigBen</a></li>
+  <li><a href="images/3.jpg"onclick="showPic(this);return false;"title="4">Four</a></li>
 
 </ul>
 
